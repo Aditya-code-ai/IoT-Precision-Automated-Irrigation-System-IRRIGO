@@ -65,7 +65,7 @@ The project combines Robotics, Embedded Systems, IoT, Cloud Computing, Machine L
 # 🏆 HACKSAGON 2026 Achievement
 
 <p align="center">
-<img src="images/certificate.jpg" width="700">
+<img src="images/certificate.jpeg" width="700">
 </p>
 
 ## 🥇 TOP PERFORMERS
@@ -107,7 +107,7 @@ The complete workflow consists of six intelligent modules:
 ## 🌱 Complete Working Prototype
 
 <p align="center">
-<img src="images/prototype.jpg" width="950">
+<img src="images/prototype.jpeg" width="950">
 </p>
 
 The hardware prototype integrates
@@ -126,7 +126,7 @@ The hardware prototype integrates
 ## 🤖 Autonomous Soil Sampling Rover
 
 <p align="center">
-<img src="images/robot.jpg" width="650">
+<img src="images/robot.jpeg" width="650">
 </p>
 
 ### Robot Features
@@ -523,7 +523,7 @@ https://irrigo-3-0.vercel.app/auth
 # 👨‍💻 Team IRRIGO
 
 <p align="center">
-<img src="images/team.jpg" width="750">
+<img src="images/team.jpeg" width="750">
 </p>
 
 | Member | Role |
