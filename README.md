@@ -420,8 +420,4 @@ If you found this project useful,
 
 Made with ❤️ by **Team IRRIGO**
 
-**Team Lead:** **Aditya Pratap Singh**
-
-🏆 HACKSAGON 2026 • Top Performers
-
 </p>
