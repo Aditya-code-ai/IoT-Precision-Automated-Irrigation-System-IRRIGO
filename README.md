@@ -335,161 +335,6 @@ The dashboard updates in real time, providing live monitoring and complete farm 
 
 ---
 
-# 📂 Repository Structure
-
-```text
-IRRIGO/
-
-├── Arduino_Code/
-│   ├── Node1/
-│   ├── Node2/
-│
-├── Backend/
-│   ├── API/
-│   ├── Firebase/
-│   ├── ML/
-│
-├── Frontend/
-│   ├── HTML/
-│   ├── CSS/
-│   ├── JavaScript/
-│
-├── Documentation/
-│
-├── Hardware/
-│
-├── Images/
-│   ├── architecture.png
-│   ├── prototype.jpg
-│   ├── robot.jpg
-│   ├── dashboard.png
-│   ├── farm-setup.png
-│   ├── certificate.jpg
-│   └── team.jpg
-│
-└── README.md
-```
-
----
-
-# 🔄 System Workflow
-
-```text
-Autonomous Robot
-        │
-        ▼
-7-in-1 Soil NPK Sensor
-        │
-        ▼
-ESP32 (Node-1)
-        │
-        ▼
-Firebase Realtime Database
-        │
-        ▼
-Machine Learning Decision Engine
-        │
-        ▼
-ESP32 (Node-2)
-        │
-        ▼
-Relay Module
-        │
-        ▼
-Solenoid Valve
-        │
-        ▼
-Precision Irrigation
-        │
-        ▼
-Live Dashboard Update
-```
-
----
-
-# 🚀 Installation
-
-## Clone Repository
-
-```bash
-git clone https://github.com/yourusername/IRRIGO-HACKSAGON-2026.git
-```
-
----
-
-## Backend
-
-```bash
-cd Backend
-
-pip install -r requirements.txt
-
-python app.py
-```
-
----
-
-## Frontend
-
-Simply open
-
-```
-index.html
-```
-
-or deploy using
-
-- Vercel
-- Netlify
-
----
-
-## ESP32
-
-Upload the Arduino firmware using
-
-- Arduino IDE
-
-Configure
-
-- WiFi Credentials
-- Firebase API Key
-- Firebase Database URL
-
-Upload code to both ESP32 nodes.
-
----
-
-# 🌍 Live Website
-
-### 🚀 Smart Farm Dashboard
-
-https://irrigo-3-0.vercel.app/auth
-
----
-
-# 🎥 Project Demonstration
-
-### Features Demonstrated
-
-✔ Autonomous Robot Navigation
-
-✔ Rack & Pinion Soil Sampling
-
-✔ Industrial NPK Sensor
-
-✔ Firebase Synchronization
-
-✔ Real-Time Dashboard
-
-✔ Automatic Irrigation
-
-✔ Smart Decision Making
-
-✔ Live Monitoring
-
----
-
 # 📈 Future Enhancements
 
 - 🌤 Weather Forecast Integration
@@ -529,35 +374,9 @@ https://irrigo-3-0.vercel.app/auth
 | Member | Role |
 |---------|------|
 | **Aditya Pratap Singh** | **Team Lead • Robotics • IoT • Embedded Systems • System Integration** |
-| Piyush Sharma | Backend Development & Cloud Integration |
-| Aryan Kumar | Embedded Systems & Hardware Development |
-| Indrani Rabha | Dashboard, Documentation & Testing |
-
----
-
-# 🏆 Recognition
-
-🥇 **TOP PERFORMERS**
-
-**HACKSAGON 2026**
-
-Agritech & Rural Innovation Track
-
-National Level Software & Hardware Hackathon
-
----
-
-# 🙏 Acknowledgements
-
-We sincerely thank
-
-- 🏛 ABV-IIITM Gwalior
-- 📡 IEEE Student Branch
-- 🏆 HACKSAGON 2026 Organizing Committee
-- 👨‍🏫 Judges & Mentors
-- 🌱 National Institute of Technology Silchar
-
-for providing us the opportunity to showcase our innovation and encouraging us to build impactful solutions for sustainable agriculture.
+| Piyush Sharma | Software Development |
+| Aryan Kumar | Hardware Development |
+| Indrani Rabha | Documentation & Testing |
 
 ---
 
@@ -573,7 +392,7 @@ National Institute of Technology Silchar
 
 📧 Email: adityaps_ug_24@ece.nits.ac.in
 
-💼 LinkedIn: *(Add your profile link)*
+💼 LinkedIn: https://www.linkedin.com/in/aditya-pratap-singh-0a845b373/
 
 🐙 GitHub: https://github.com/Aditya-code-ai
 
