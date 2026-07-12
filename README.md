@@ -390,7 +390,7 @@ The dashboard updates in real time, providing live monitoring and complete farm 
 
 National Institute of Technology Silchar
 
-📧 Email: adityaps_ug_24@ece.nits.ac.in
+📧 Email: adityasinghk16@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/aditya-pratap-singh-0a845b373/
 
