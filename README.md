@@ -93,18 +93,18 @@ Our project was recognized among the **Top Performing Teams** for developing an 
 
 The complete workflow consists of six intelligent modules:
 
-- 🌱 Autonomous Soil Data Collection
-- ⚡ ESP32 Data Processing
-- ☁ Firebase Cloud Database
-- 🤖 Machine Learning Decision Engine
-- 💧 Automatic Irrigation Control
-- 📊 Live Dashboard Monitoring
+-  Autonomous Soil Data Collection
+-  ESP32 Data Processing
+-  Firebase Cloud Database
+-  Machine Learning Decision Engine
+-  Automatic Irrigation Control
+-  Live Dashboard Monitoring
 
 ---
 
 # 📸 Project Gallery
 
-## 🌱 Complete Working Prototype
+##  Complete Working Prototype
 
 <p align="center">
 <img src="images/prototype.jpeg" width="950">
@@ -142,7 +142,7 @@ The hardware prototype integrates
 
 # 💻 Smart Web Dashboard
 
-## 📊 Live Monitoring Dashboard
+## Live Monitoring Dashboard
 
 <p align="center">
 <img src="images/dashboard.png" width="100%">
@@ -162,7 +162,7 @@ The dashboard provides
 
 ---
 
-## ⚙ Farm Configuration Dashboard
+## Farm Configuration Dashboard
 
 <p align="center">
 <img src="images/farm-setup.png" width="100%">
@@ -208,12 +208,12 @@ If the moisture level falls below the optimal threshold for the selected crop, E
 
 This enables
 
-- 💧 Precision Irrigation
-- 🌱 Healthy Crop Growth
-- 📈 Better Yield
-- 🚜 Smart Farming
-- 🌍 Water Conservation
-- 🤖 Fully Automated Irrigation
+-  Precision Irrigation
+-  Healthy Crop Growth
+-  Better Yield
+-  Smart Farming
+-  Water Conservation
+-  Fully Automated Irrigation
 
 ---
 
@@ -282,26 +282,26 @@ The dashboard updates in real time, providing live monitoring and complete farm 
 ---
 # ✨ Key Features
 
-- 🤖 Autonomous Soil Sampling Rover
-- 🌱 Precision Irrigation using Soil Health Data
-- 📡 Dual ESP32 Node Architecture
-- ☁️ Firebase Realtime Database Integration
-- 📊 Real-Time Smart Dashboard
-- 🤖 Machine Learning Based Irrigation Decision
-- 💧 Automatic Solenoid Valve Control
-- 🌦️ Water Level Monitoring & Alerts
-- 📈 Historical Sensor Data Logging
-- 🌍 Water Conservation through Zone-wise Irrigation
-- ⚡ Wireless Communication between Nodes
-- 📱 Responsive Web Dashboard
-- 🔄 Auto & Manual Irrigation Modes
-- 🚜 Modular and Scalable Architecture
+-  Autonomous Soil Sampling Rover
+-  Precision Irrigation using Soil Health Data
+-  Dual ESP32 Node Architecture
+-  Firebase Realtime Database Integration
+-  Real-Time Smart Dashboard
+-  Machine Learning Based Irrigation Decision
+-  Automatic Solenoid Valve Control
+-  Water Level Monitoring & Alerts
+-  Historical Sensor Data Logging
+-  Water Conservation through Zone-wise Irrigation
+-  Wireless Communication between Nodes
+-  Responsive Web Dashboard
+-  Auto & Manual Irrigation Modes
+-  Modular and Scalable Architecture
 
 ---
 
 # 🛠️ Technology Stack
 
-## 💻 Software
+## Software
 
 | Technology | Purpose |
 |------------|---------|
@@ -317,7 +317,7 @@ The dashboard updates in real time, providing live monitoring and complete farm 
 
 ---
 
-## 🔩 Hardware Components
+## Hardware Components
 
 | Component | Description |
 |------------|-------------|
@@ -335,33 +335,33 @@ The dashboard updates in real time, providing live monitoring and complete farm 
 
 ---
 
-# 📈 Future Enhancements
+# Future Enhancements
 
-- 🌤 Weather Forecast Integration
-- 🛰 GPS Based Autonomous Navigation
-- 🚁 Drone Assisted Crop Monitoring
-- 🌾 AI Based Crop Recommendation
-- 📱 Android Application
-- ☀ Solar Powered Charging Station
-- 📍 GIS Farm Mapping
-- 📡 LoRa Communication
-- 🤖 Edge AI Processing
-- 🌍 Multi-Farm Management
+- Weather Forecast Integration
+-  GPS Based Autonomous Navigation
+-  Drone Assisted Crop Monitoring
+-  AI Based Crop Recommendation
+-  Android Application
+-  Solar Powered Charging Station
+-  GIS Farm Mapping
+-  LoRa Communication
+-  Edge AI Processing
+-  Multi-Farm Management
 
 ---
 
-# 📊 Project Highlights
+# Project Highlights
 
-- 🌱 Smart Agriculture
-- 🤖 Robotics
-- 📡 Internet of Things
-- ⚡ Embedded Systems
-- 💧 Precision Irrigation
-- ☁ Cloud Computing
-- 🤖 Machine Learning
-- 🌍 Sustainable Farming
-- 📈 Data Analytics
-- 🚜 Automation
+-  Smart Agriculture
+-  Robotics
+-  Internet of Things
+-  Embedded Systems
+-  Precision Irrigation
+-  Cloud Computing
+-  Machine Learning
+-  Sustainable Farming
+-  Data Analytics
+-  Automation
 
 ---
 
@@ -390,11 +390,11 @@ The dashboard updates in real time, providing live monitoring and complete farm 
 
 National Institute of Technology Silchar
 
-📧 Email: adityasinghk16@gmail.com
+ Email: adityasinghk16@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/aditya-pratap-singh-0a845b373/
+ LinkedIn: https://www.linkedin.com/in/aditya-pratap-singh-0a845b373/
 
-🐙 GitHub: https://github.com/Aditya-code-ai
+ GitHub: https://github.com/Aditya-code-ai
 
 ---
 
@@ -408,7 +408,7 @@ If you found this project useful,
 
 💬 Share your feedback
 
-🌱 Let's build a smarter future for agriculture together!
+ Let's build a smarter future for agriculture together!
 
 ---
 
