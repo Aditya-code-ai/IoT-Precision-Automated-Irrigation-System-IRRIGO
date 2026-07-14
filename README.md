@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/d95ca365-2d2a-449c-be8c-34b09a4601c2
+
+
 <h1 align="center">🌱 IoT-Based Autonomous Precision Irrigation System</h1>
 
 <h3 align="center">
