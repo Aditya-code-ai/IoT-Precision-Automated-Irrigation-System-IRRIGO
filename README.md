@@ -1,4 +1,4 @@
-<h1 align="center">🌱 IoT-Based Autonomous Precision Irrigation System</h1>
+<h1 align="center"> IoT-Based Autonomous Precision Irrigation System</h1>
 
 <h3 align="center">
 Smart Agriculture • IoT • ESP32 • Firebase • Machine Learning • Embedded Systems
